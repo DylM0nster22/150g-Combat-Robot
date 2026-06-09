@@ -1,7 +1,10 @@
 ## 6/6/26 - Making the weapon
 
-So far today, I have made the initial weapon design. For this weapon, I started by trying to make a basic asymmetrical weapon, but it just didn't look good to me, so then I tried to make a more axe-ish shaped weapon, but no matter what I did, I just couldn't get it to look right, so I restarted again. That's how I ended up with the newest design. The total weapon diameter is around 5 inches and will weigh about 48 grams per weapon, which is over half of the weight of a normal fairy, but bristle bots get weight bonuses of 1.5x, so I'm chilling, I think… here's how the weapon looks <img width="839" height="446" alt="Screenshot 2026-06-06 203950" src="https://github.com/user-attachments/assets/ce8ded3c-a4b1-4a8b-8b2b-a2a98413bdae" />
-I spent an hour and 46 minutes on this, according to hakatime <img width="1244" height="36" alt="image" src="https://github.com/user-attachments/assets/60e88f77-d093-4adc-920b-370472b9d799" />
+So far today, I have made the initial weapon design. For this weapon, I started by trying to make a basic asymmetrical weapon, but it just didn't look good to me, so then I tried to make a more axe-ish shaped weapon, but no matter what I did, I just couldn't get it to look right, so I restarted again. That's how I ended up with the newest design. The total weapon diameter is around 5 inches and will weigh about 48 grams per weapon, which is over half of the weight of a normal fairy, but bristle bots get weight bonuses of 1.5x, so I'm chilling, I think… here's how the weapon looks
+<img width="839" height="446" alt="Screenshot 2026-06-06 203950" src="https://github.com/user-attachments/assets/ce8ded3c-a4b1-4a8b-8b2b-a2a98413bdae" />
+
+I spent an hour and 46 minutes on this, according to Hakatime
+<img width="1244" height="36" alt="image" src="https://github.com/user-attachments/assets/60e88f77-d093-4adc-920b-370472b9d799" />
 
 
 ## 6/8/26
@@ -28,7 +31,9 @@ At this point, I decided to pocket the weapon even more and make the hub slightl
 
 <img width="723" height="443" alt="image" src="https://github.com/user-attachments/assets/7917ed29-2287-4571-9502-50d716edaf0e" />
 
-I spent 9 hours and 26 minutes according to Hackatime <img width="1211" height="50" alt="image" src="https://github.com/user-attachments/assets/ac9fb307-cdd9-4409-a8d1-1b7e80af3f42" />
+I spent 9 hours and 26 minutes according to Hackatime
+
+<img width="1211" height="50" alt="image" src="https://github.com/user-attachments/assets/ac9fb307-cdd9-4409-a8d1-1b7e80af3f42" />
 
 ## Total Time Spent on Cad: 11 hours and 16 minutes.
 ## Total Time Spent: 12.5 hours
